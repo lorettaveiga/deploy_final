@@ -1,15 +1,3 @@
-# loginapp fullstack 
-## estructuras
-```
-.
-├── frontend/ # React 
-└── backend/ # Node.js 
-```
-
-#urls del deploy
-- Backend API: https://loretta.up.railway.app
-- Frontend: https://loretta.vercel.app
-- Alternative Frontend: https://loretta.netlify.app
 
 
 #steup del backend
